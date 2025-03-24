@@ -7,6 +7,7 @@ Python 3.x
 
 How to run:
 Navigate to the project directory in the terminal.
+
 Start the server by running "python tictactoe_server.py".
 
 How to play:
